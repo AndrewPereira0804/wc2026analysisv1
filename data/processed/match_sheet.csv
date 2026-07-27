@@ -1,0 +1,29 @@
+match_name,match_bias_score,abs_bias_significance,stage,incident_count,favored_team,underdog_team,winner,spread,upset,bias_direction,VAR_count
+south africa vs canada,-1.02,1.02,R32,1,canada,south africa,canada,-1,False,underdog,0
+brazil vs japan,-0.16,0.16,R32,1,brazil,japan,brazil,-1,False,neutral,0
+germany vs paraguay,-2.3,2.3,R32,2,germany,paraguay,paraguay,0,True,underdog,1
+mexico vs ecuador,0.1,0.1,R32,1,mexico,ecuador,mexico,-2,False,neutral,0
+usa vs bosnia and herzegovina,0.22,1.65,R32,4,usa,bosnia and herzegovina,usa,-1,False,neutral,1
+portugal vs croatia,0.3,0.3,R32,1,portugal,croatia,portugal,-1,False,neutral,1
+switzerland vs algeria,0.88,0.88,R32,1,switzerland,algeria,switzerland,-1,False,favorite,0
+australia vs egypt,0.33,0.33,R32,2,egypt,australia,egypt,0,False,neutral,0
+argentina vs cape verde,3.26,3.26,R32,4,argentina,cape verde,argentina,-1,False,favorite,0
+norway vs ivory coast,0.3,0.3,R32,1,norway,ivory coast,norway,-1,False,neutral,0
+england vs dr congo,-0.94,0.94,R32,1,england,dr congo,england,-1,False,underdog,1
+spain vs austria,-0.25,0.25,R32,1,spain,austria,spain,-3,False,neutral,1
+belgium vs senegal,1.48,1.48,R32,2,belgium,senegal,belgium,-1,False,favorite,1
+colombia vs ghana,-0.18,0.18,R32,1,colombia,ghana,colombia,-1,False,neutral,0
+canada vs morocco,0.89,0.89,R16,3,morocco,canada,morocco,-3,False,favorite,0
+france vs paraguay,-2.13,3.99,R16,7,france,paraguay,france,-1,False,underdog,1
+brazil vs norway,1.22,1.22,R16,2,brazil,norway,norway,1,True,favorite,2
+usa vs belgium,0.0,0.26,R16,2,belgium,usa,belgium,-3,False,neutral,0
+switzerland vs colombia,-0.98,0.98,R16,1,colombia,switzerland,switzerland,0,True,underdog,0
+mexico vs england,-0.7,0.84,R16,3,england,mexico,england,-1,False,neutral,2
+argentina vs egypt,2.94,2.94,R16,3,argentina,egypt,argentina,-1,False,favorite,1
+argentina vs switzerland,0.34,0.34,QF,1,argentina,switzerland,argentina,-2,False,neutral,1
+norway vs england,-0.65,1.29,QF,3,england,norway,england,-1,False,neutral,2
+france vs morocco,0.36,0.36,QF,2,france,morocco,france,-2,False,neutral,1
+argentina vs england,0.44,0.44,SF,1,argentina,england,argentina,-1,False,neutral,0
+france vs spain,0.87,0.87,SF,1,spain,france,spain,-2,False,favorite,0
+france vs england,-0.08,0.08,3P,1,france,england,england,2,True,neutral,0
+spain vs argentina,0.3,0.78,F,2,argentina,spain,spain,1,True,neutral,1

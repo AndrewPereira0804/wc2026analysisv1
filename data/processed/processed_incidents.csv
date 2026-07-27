@@ -1,0 +1,56 @@
+incident_id,favored_team_hurt,underdog_team_benefited,abs_bias_significance,incident_type,decision,unfairness_bucket,VAR_involved
+RSA-CAN-R32-01,True,True,1.0249085325042424,Potential Penalty,No Penalty,Unfair,False
+BRA-JPN-R32-01,True,True,0.15774409656148788,Foul,No Free Kick,Probably fair,False
+GER-PAR-R32-01,True,True,0.16770509831248417,Potential Penalty,No Penalty,Probably fair,False
+GER-PAR-R32-02,True,True,2.1276298197759873,Foul,Goal Disallowed,robbery,True
+MEX-ECU-R32-01,False,False,0.0965981366279909,Foul,Free Kick,Probably fair,False
+USA-BIH-R32-01,True,True,0.3018691769624715,Potential Penalty,No Penalty,Questionable,False
+USA-BIH-R32-02,True,True,0.4140782534739056,Foul,Red Card,Questionable,True
+USA-BIH-R32-03,False,False,0.4066632513517787,Foul,No Free Kick,Questionable,False
+USA-BIH-R32-04,False,False,0.5303300858899106,Foul,Yellow Card,Minorly unfair,False
+POR-CRO-R32-01,False,False,0.3018691769624715,Potential Penalty,Penalty,Questionable,True
+SUI-ALG-R32-01,False,False,0.8783926229198421,Foul,No Free Kick,Minorly unfair,False
+AUS-EGY-R32-01,False,False,0.2545584412271571,Foul,No Yellow Card,Questionable,False
+AUS-EGY-R32-02,False,False,0.0782623792124926,Foul,Free Kick,Probably fair,False
+ARG-CPV-R32-01,False,False,1.2021101447038869,Foul,Free Kick,Unfair,False
+ARG-CPV-R32-02,False,False,0.4043394613440543,Foul,Yellow Card,Questionable,False
+ARG-CPV-R32-03,False,False,0.11296777748544054,Game Management,Whistle Blown Before Keeper Appears Ready,Probably fair,False
+ARG-CPV-R32-04,False,False,1.5368669428418325,Foul,No Free Kick,Unfair,False
+CIV-NOR-R32-01,False,False,0.29698484809834996,Foul,No Yellow Card,Questionable,False
+ENG-COD-R32-01,True,True,0.9411349531284023,Potential Penalty,No Penalty,Minorly unfair,True
+ESP-AUT-R32-02,True,True,0.2520048610642262,Foul,Goal Disallowed,Questionable,True
+BEL-SEN-R32-01,False,False,0.8591347391416554,Foul,No Free Kick,Minorly unfair,False
+BEL-SEN-R32-02,False,False,0.6211173802108585,Potential Penalty,Penalty,Minorly unfair,True
+COL-GHA-R32-01,True,True,0.1770965838179833,Potential Penalty,No Penalty,Probably fair,False
+CAN-MAR-R16-01,False,False,0.20449352067975163,Foul,No Free Kick,Probably fair,False
+CAN-MAR-R16-02,False,False,0.16263455967290594,Foul,Free Kick,Probably fair,False
+CAN-MAR-R16-03,False,False,0.5205289617302769,Foul,Yellow Card,Minorly unfair,False
+PAR-FRA-R16-01,True,True,0.3764539812513609,Foul,Yellow Card,Questionable,False
+PAR-FRA-R16-02,True,True,0.3676955262170048,Foul,No Yellow Card,Questionable,False
+PAR-FRA-R16-03,True,True,0.8300284332479222,Foul,No Free Kick,Minorly unfair,False
+PAR-FRA-R16-04,False,False,0.8068551449919621,Handball,No Free Kick,Minorly unfair,False
+PAR-FRA-R16-05,True,True,0.6325149800597611,Game Management,No Yellow Card,Minorly unfair,False
+PAR-FRA-R16-06,True,True,0.8538149682454625,Game Management,Yellow Card,Minorly unfair,False
+PAR-FRA-R16-07,False,False,0.11953409555436471,Potential Penalty,Penalty,Probably fair,True
+BRA-NOR-R16-01,False,False,0.33000000000000007,Potential Penalty,Penalty,Questionable,True
+BRA-NOR-R16-02,False,False,0.8909545442950499,Potential Penalty,Penalty,Minorly unfair,True
+USA-BEL-R16-01,True,True,0.12879751550398785,Foul,Free Kick,Probably fair,False
+USA-BEL-R16-02,False,False,0.1294142452553041,Foul,No Free Kick,Probably fair,False
+SUI-COL-R16-01,True,True,0.9759918032442689,Potential Penalty,No Penalty,Minorly unfair,False
+MEX-ENG-R16-01,True,True,0.5521043379652075,Foul,Red Card,Minorly unfair,True
+MEX-ENG-R16-02,False,False,0.06972822240671275,Potential Penalty,Penalty,Probably fair,False
+MEX-ENG-R16-03,True,True,0.2160041666264796,Potential Penalty,Penalty,Probably fair,True
+ARG-EGY-R16-01,False,False,0.36848035056160056,Potential Penalty,Penalty,Questionable,False
+ARG-EGY-R16-02,False,False,1.9519836064885379,Foul,Goal Disallowed,robbery,True
+ARG-EGY-R16-03,False,False,0.6211883772254596,Potential Penalty,No Penalty,Minorly unfair,False
+ARG-SUI-QF-01,False,False,0.3380934781979681,Foul,Second Yellow Card,Questionable,True
+NOR-ENG-QF-01,False,False,0.31774525960272,Foul,Goal Disallowed,Questionable,True
+NOR-ENG-QF-02,True,True,0.5534506075522909,Foul,No Free Kick,Minorly unfair,False
+NOR-ENG-QF-03,True,True,0.41654300498267893,Potential Penalty,No Penalty,Questionable,True
+FRA-MAR-QF-01,False,False,0.23612877842397773,Potential Penalty,Penalty,Probably fair,True
+FRA-MAR-QF-02,False,False,0.12343095235798834,Handball,No Free Kick,Probably fair,False
+ENG-ARG-SF-01,False,False,0.43919631145992105,Foul,No Yellow Card,Questionable,False
+FRA-ESP-SF-01,False,False,0.8716472484791367,Potential Penalty,Penalty,Minorly unfair,False
+FRA-ENG-3P-01,True,True,0.07968939703624314,Potential Penalty,Penalty,Probably fair,False
+ESP-ARG-F-01,True,True,0.24149534156997718,Foul,Second Yellow Card,Probably fair,False
+ESP-ARG-F-02,False,False,0.5434777076845012,Foul,Goal Disallowed,Minorly unfair,True

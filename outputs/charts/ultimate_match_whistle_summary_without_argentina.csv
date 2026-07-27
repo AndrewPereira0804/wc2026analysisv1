@@ -1,0 +1,24 @@
+match,stage,favored_team,underdog_team,incidents,net_favorite_advantage,evidence,label
+france vs paraguay,R16,france,paraguay,7,-2.1341186484751846,3.9868971295678386,France vs Paraguay
+germany vs paraguay,R32,germany,paraguay,2,-2.2953349180884715,2.2953349180884715,Germany vs Paraguay
+usa vs bosnia and herzegovina,R32,usa,bosnia and herzegovina,4,0.22104590680531222,1.6529407676780665,USA vs Bosnia and Herzegovina
+belgium vs senegal,R32,belgium,senegal,2,1.4802521193525138,1.4802521193525138,Belgium vs Senegal
+norway vs england,QF,england,norway,3,-0.6522483529322498,1.2877388721376897,England vs Norway
+brazil vs norway,R16,brazil,norway,2,1.22095454429505,1.22095454429505,Brazil vs Norway
+south africa vs canada,R32,canada,south africa,1,-1.0249085325042424,1.0249085325042424,Canada vs South Africa
+switzerland vs colombia,R16,colombia,switzerland,1,-0.9759918032442689,0.9759918032442689,Colombia vs Switzerland
+england vs dr congo,R32,england,dr congo,1,-0.9411349531284023,0.9411349531284023,England vs DR Congo
+canada vs morocco,R16,morocco,canada,3,0.8876570420829344,0.8876570420829344,Morocco vs Canada
+switzerland vs algeria,R32,switzerland,algeria,1,0.8783926229198421,0.8783926229198421,Switzerland vs Algeria
+france vs spain,SF,spain,france,1,0.8716472484791367,0.8716472484791367,Spain vs France
+mexico vs england,R16,england,mexico,3,-0.6983802821849744,0.8378367269983998,England vs Mexico
+france vs morocco,QF,france,morocco,2,0.35955973078196607,0.35955973078196607,France vs Morocco
+australia vs egypt,R32,egypt,australia,2,0.33282082043964967,0.33282082043964967,Egypt vs Australia
+portugal vs croatia,R32,portugal,croatia,1,0.3018691769624715,0.3018691769624715,Portugal vs Croatia
+norway vs ivory coast,R32,norway,ivory coast,1,0.29698484809834996,0.29698484809834996,Norway vs Ivory Coast
+usa vs belgium,R16,belgium,usa,2,0.0006167297513162417,0.258211760759292,Belgium vs USA
+spain vs austria,R32,spain,austria,1,-0.2520048610642262,0.2520048610642262,Spain vs Austria
+colombia vs ghana,R32,colombia,ghana,1,-0.1770965838179833,0.1770965838179833,Colombia vs Ghana
+brazil vs japan,R32,brazil,japan,1,-0.15774409656148788,0.15774409656148788,Brazil vs Japan
+mexico vs ecuador,R32,mexico,ecuador,1,0.0965981366279909,0.0965981366279909,Mexico vs Ecuador
+france vs england,3P,france,england,1,-0.07968939703624314,0.07968939703624314,France vs England

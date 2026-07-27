@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+plotly
+scipy
+statsmodels
+scikit-learn
+jupyter
+notebook
+ipykernel
+python-dotenv
+requests
+beautifulsoup4
+seaborn
+lxml
+tqdm

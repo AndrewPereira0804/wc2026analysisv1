@@ -1,0 +1,29 @@
+match_name,stage,favored_team,underdog_team,winner,spread
+south africa vs canada,R32,canada,south africa,canada,-1
+brazil vs japan,R32,brazil,japan,brazil,-1
+germany vs paraguay,R32,germany,paraguay,paraguay,0
+mexico vs ecuador,R32,mexico,ecuador,mexico,-2
+usa vs bosnia and herzegovina,R32,usa,bosnia and herzegovina,usa,-1
+portugal vs croatia,R32,portugal,croatia,portugal,-1
+switzerland vs algeria,R32,switzerland,algeria,switzerland,-1
+australia vs egypt,R32,egypt,australia,egypt,0
+argentina vs cape verde,R32,argentina,cape verde,argentina,-1
+norway vs ivory coast,R32,norway,ivory coast,norway,-1
+england vs dr congo,R32,england,dr congo,england,-1
+spain vs austria,R32,spain,austria,spain,-3
+belgium vs senegal,R32,belgium,senegal,belgium,-1
+colombia vs ghana,R32,colombia,ghana,colombia,-1
+canada vs morocco,R16,morocco,canada,morocco,-3
+france vs paraguay,R16,france,paraguay,france,-1
+brazil vs norway,R16,brazil,norway,norway,1
+usa vs belgium,R16,belgium,usa,belgium,-3
+switzerland vs colombia,R16,colombia,switzerland,switzerland,0
+mexico vs england,R16,england,mexico,england,-1
+argentina vs egypt,R16,argentina,egypt,argentina,-1
+argentina vs switzerland,QF,argentina,switzerland,argentina,-2
+norway vs england,QF,england,norway,england,-1
+france vs morocco,QF,france,morocco,france,-2
+argentina vs england,SF,argentina,england,argentina,-1
+france vs spain,SF,spain,france,spain,-2
+france vs england,3P,france,england,england,2
+spain vs argentina,F,argentina,spain,spain,1
