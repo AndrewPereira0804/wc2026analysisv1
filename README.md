@@ -30,25 +30,25 @@ What this suggests is that over the course of the KO round of the tournament, th
 Overall match direction found 7 favorite-leaning, 5 underdog-leaning, 16 mixed/neutral after incidents are weighted. So the favorite advantage is not from more favorite-leaning matches; it comes from larger favorite-side swings in key matches.
 
 # Match Summaries
-![alt text](./charts/matches_by_impact.png)
+![alt text](outputs/charts/matches_by_impact.png)
 
 This chart ranks matches by the sum of the scores, ignoring bias direction. This can be interpreted as my personal ranking of the most controversial/worst-managed matches without considering which side benefited more or less. Some matches (e.g. France V Paraguay) had many small incidents that compiled, while others had few, but high impact incidents (e.g. Argentina Vs Egypt). Lower absolute match bias directly points to a overall less controversial match. If a match isn't listed at all, that means I found no incidents worth logging in that match.
 
-![alt text](./charts/matches_by_bias.png)
+![alt text](output/charts/matches_by_bias.png)
 
 This chart ranks matches by the overall bias seen, with the middle cutoffs showing where the score is >0.75 in either direction representing an overall neutral match. This graph much more clearly shows where bias actually falls and how much. Negative values representing the underdog receiving more favorable calls and positive values representing the favorite receiving more favorable calls. The "neutral" cutoff is more of a made-up boundary rather than a mathematical statement.
 
-![alt text](./charts/match_score_vs_spread.png)
+![alt text](output/charts/match_score_vs_spread.png)
 
 There is not a clear correlation between refereeing bias and the spread of a game (negative values representing how many the favorite won by, positive underdog), but its still interesting anyway. Only two underdog teams won in spite of the calls drifting towards the direction of the favorite.
 
 # Team Summaries
-![alt text](./charts/total_benefit.png)
-![alt text](./charts/total_harm.png)
+![alt text](output/charts/total_benefit.png)
+![alt text](output/charts/total_harm.png)
 
 Looking at total benefit and harm does not tell the whole story, as teams that make it farther tend to have more extreme values, as expected, but it does show some interesting outliers. Cape Verde despite having only one KO match experienced the most total harm from refeering calls, simply because in their match against Argentina, they saw no meaningful calls going their way. Argentina saw the highest total benefit, but with the caveat they made it to the finals. England and France actually saw a large amount of harm from calls over the course of the tournament, but again they also saw more matches. 
 
-![alt text](./charts/impact_per_match.png)
+![alt text](output/charts/impact_per_match.png)
 
 Looking at benefit/harm over matches paints a clearer picture. Paraguay actually tops the chart of per-match calls going their way, but the score is pushed heavily by Germany's huge disallowed goal, which ultimately led to their advancing to R16, and the poor game management seen in their R16 game against France; where despite their unsporting behavior, not a single yellow card was shown. Interestingly, because of Paraguay, France and Germany in turn fall down to having a significant amount of harm against them. Argentina, despite making it to the finals, is a clear second place for most benefitted teams. The case for controversial calls going Argentina's way is stronger, as they played in more matches and consistently saw beneficial calls. 
 
@@ -56,23 +56,23 @@ The fact that the impact per match seems to lean more heavily towards harm than 
 
 # Other Summaries
 
-![alt text](./charts/impact_by_stage.png)
+![alt text](output/charts/impact_by_stage.png)
 
 This chart measures the total of bias direction in each stage of the the KO Tournament. We can see that in no stage did the overall bias favor the underdog (3P match saw insignifcant bias toward the under), with R32 seeing the most total bias toward the favorite, with the caveat that R32 also had the most logged matches. Interestingly, the QF saw less total favoritism than the SF despite more QF matches being logged.
 
-![alt text](./charts/incident_count_vs_impact.png)
+![alt text](output/charts/incident_count_vs_impact.png)
 
 Shows a sort of obvious trend that matches with more incidents tend to have a higher overall display of bias in either direction
 
-![alt text](./charts/impact_by_incident_type.png)
+![alt text](output/charts/impact_by_incident_type.png)
 
 Disallowed goals are understandably the most impactful, and controversial types of calls in this tournament. Because it is not the most common, it is also pushed heavily by the most controversial incidents. No Free Kick and No Penalty show a significant amount of controversy despite being more common incident types, suggesting that unfairness may arise more significantly in missed calls rather than calls given. 
 
 
 # Ultimate Summaries
 
-![alt text](./charts/ultimate_do_bigger_teams_get_the_whistle.png)
-![alt text](./charts/ultimate_whistle_evidence_map.png)
+![alt text](output/charts/ultimate_do_bigger_teams_get_the_whistle.png)
+![alt text](output/charts/ultimate_whistle_evidence_map.png)
 
 For fun, I had Codex generate two graphs that combine all the data to try and answer the ultimate question, "Do bigger teams get the whistle?"
 
